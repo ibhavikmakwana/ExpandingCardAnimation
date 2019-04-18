@@ -5,11 +5,15 @@ A new Flutter application demonstrate expanding card animation.
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ibhavikmakwana)
 
 
-# Preview
+## Preview
 
 | Preview |
 | ------------------ |
 | <img src="./preview/preview.gif" height="400" alt="Screenshot"/>  |
+
+## Credit
+
+Inspired by ramotion's design on [Uplabs](https://www.uplabs.com/posts/ios-expanding-collection)
 
 ## Getting Started
 
@@ -24,10 +28,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started
-
-For help getting started with Flutter, view online
-[documentation](https://flutter.io/).
 
 ## Contribute
 1. Fork the the project
@@ -44,7 +44,7 @@ Hit me on
 <a href="https://medium.com/@ibhavikmakwana"><img src="./icons/medium-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/ibhavikmakwana/"><img src="./icons/linkedin-icon.png?raw=true" width="60"></a>
 
-# Donate
+## Donate
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
